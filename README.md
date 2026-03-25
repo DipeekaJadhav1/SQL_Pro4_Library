@@ -18,7 +18,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](<img width="858" height="610" alt="image" src="https://github.com/user-attachments/assets/4853cf11-526e-49a3-947c-b0e53a7b5e97" />
+![ERD](https://github.com/DipeekaJadhav1/SQL_Pro4_Library/blob/main/library/Screenshot%202026-03-25%20234004.png
 )
 
 - **Database Creation**: Created a database named `library_db`.
